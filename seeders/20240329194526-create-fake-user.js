@@ -20,7 +20,7 @@ module.exports = {
       password: "HdjdoeVani",
       role: "administrator",
       createdAt: "2024-05-29T18:46:17.440Z",
-      updatedAt: "2024-05-29T18:46:17.440Z"
+      updatedAt: "2024-05-29T16:46:17.440Z"
     }], {});
   },
 
